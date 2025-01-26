@@ -70,3 +70,31 @@
  <a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"> </a>
 <a>   <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/OB/UP/SC/136014976/advance-microsoft-excel-course.png" alt="Microsoft Word" width="40" height="40"> </a>
  <a>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png" alt="Microsoft Excel" width="40" height="40"> </a>
+
+
+ <h2 align="left">💼 My Tech Corner</h2>
+
+<h4><b>Checkout My Coding Profile, Here🤝</b></h4> 
+
+- [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/obulic454j) <br>
+- [**LeetCode**](https://leetcode.com/u/OBULIPURUSOTHAMAN/) <br>
+- [**CodingNinjas**](https://www.naukri.com/code360/profile/cd9415ce-96c9-43c4-88dc-73a681d91581)<br>
+<h4><b>Checkout My Technical Blogs, Here🤝</b></h4>  
+
+- [**HashNode**](https://obulipurusothaman.hashnode.dev/)<br>
+- [**BlogSpot**](https://learnwithobuli.blogspot.com/)<br>
+- [**Medium**](https://medium.com/@obulicse23)<br>
+
+
+
+## Certified Skills
+
+- [**TalentNext Course on Java**](https://drive.google.com/file/d/1qjZRxTGUyo7niziAxuP1E7gfRHi6HkVI/view?usp=drive_link) by Wipro<br>
+- [**Python Programming course**](https://drive.google.com/file/d/1jSB28cW9EgrklB3w5ZPJ88mh-3k1Z2O5/view?usp=drive_link) by NPTEL<br>
+- [**Java Programming course**](https://drive.google.com/file/d/1ovavw1cQFAEq3H-pWmfLr0qg91gAXPaA/view?usp=drive_link) by NPTEL<br>
+- [**Fundamentals of AI course**](https://drive.google.com/file/d/1f7Me9lsUpdIDe7_67mu79yM6HyJLXESC/view?usp=drive_link) by NPTEL<br>
+- [**Cloud Computing course**](https://drive.google.com/file/d/1NjEj-KMGIUknJSMquIcIF-wK9ctCqgqs/view?usp=drive_link) by NPTEL<br>
+- [**Basic Web Dev Bootstrap course**](https://drive.google.com/file/d/1GVt5AdROhQaDDDyqvVfkNq6iAeoICTa9/view?usp=drive_link) by ShapeAI<br>
+- [**React course**](https://drive.google.com/file/d/13wqwvJYu__ehqoXGbtPQrjSbGHSN0V1i/view?usp=drive_link) by UDEMY<br>
+- [**Introduction to Cybersecurity course**](https://drive.google.com/file/d/14Mbt3aGhsq2QZnE1x9KYMHLOpqUhm7j7/view?usp=drive_link) by CISCO<br>
+
